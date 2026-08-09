@@ -3,7 +3,9 @@ copyright = '2026 Sil Foundation'
 author = 'Sil Foundation'
 release = '1.0.0'
 
-extensions = []
+extensions = [
+    'sphinx_rtd_theme',
+]
 templates_path = ['_templates']
 exclude_patterns = ['_build', 'Thumbs.db', '.DS_Store']
 
