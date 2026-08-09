@@ -1,4 +1,4 @@
-project = 'Sil Documentation'
+project = 'Sil'
 copyright = '2026 Sil Foundation'
 author = 'Sil Foundation'
 release = '1.0.0'
