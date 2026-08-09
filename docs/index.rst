@@ -1,6 +1,8 @@
-Welcome to Sil Documentation!
-=============================
+Sil Programming Language
+==========================
+
+There's nothing here yet, but updates are coming soon!
 
 .. toctree::
    :maxdepth: 2
-   :caption: Contents:
+   :hidden:
